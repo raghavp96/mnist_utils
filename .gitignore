@@ -3,4 +3,4 @@ __pycache__
 mnist_utils/test/trial/*
 build/*
 dist/*
-mnist_utils_raghavp96.egg-info/*
+mnist_utils.egg-info/*

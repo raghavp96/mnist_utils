@@ -5,6 +5,10 @@ This is a simple package for working with MNIST Images. If you have a physical m
 This is useful for when you want to run a trained model for example and provide a PNG to the model. The model likely is trained on a numpy array -> this just handles the conversion from PNG to grayscale numpy array.
 
 
+To get the latest version:
+
+    pip install mnist-utils
+
 
 ### Working on the project
 
